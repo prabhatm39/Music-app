@@ -15,6 +15,12 @@ Run json server - npm run server
 </p>
 
 
+## authentication
+
+<p>
+for Login (https://reqres.in) is used
+</p>
+
 ### Tech Stack
 ___
 
